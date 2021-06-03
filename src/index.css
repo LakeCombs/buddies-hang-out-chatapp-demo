@@ -75,6 +75,26 @@
   display: inline-block;
 }
 
+.login-button-facebook {
+  cursor: pointer;
+  color: white;
+  padding: 12px;
+  border-radius: 8px;
+  display: inline-block;
+  background-color: #3b5998;
+  margin: 5px;
+}
+
+.login-button-google {
+  cursor: pointer;
+  color: white;
+  padding: 12px;
+  border-radius: 8px;
+  display: inline-block;
+  background-color: #c40606;
+  margin: 5px;
+}
+
 .facebook {
   background-color: #3b5998;
 }
